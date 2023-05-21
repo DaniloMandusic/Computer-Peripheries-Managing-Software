@@ -2,7 +2,7 @@
 
 Computer peripheries managing program made for Computer Architecture university project in assembly for:
 
-Starting and stopping work peripheries.
+Starting and stopping work of peripheries.
 <br>
 Data transfer with testing ready bit mechanism.
 <br>
